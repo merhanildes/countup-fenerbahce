@@ -4,7 +4,7 @@ const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 
-const pastYears = "2014-04-15T19:00:00+03:00";
+const pastYears = "2014-05-11T22:23:00+03:00";
 
 function countdown() {
     const pastYearsDate = new Date(pastYears);
